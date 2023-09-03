@@ -14,6 +14,10 @@
 
 - API: https://64ee1c7d1f872182714252bf.mockapi.io/products
 
+### `Deploy`
+
+- https://shopping-card-logo.netlify.app/
+
 ### `Screen`
 
 ![](screen.gif)
